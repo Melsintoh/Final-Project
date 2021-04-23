@@ -14,6 +14,8 @@ I did make the icon for the app using a pixel art drawing software. I was gettin
 I included some of the websites that helped me solved problems in the citiations 
 
 My contact information:
+Micheal.L.Stone
+1106818
 enotsm2112@gmail.com
 
 Citation page
