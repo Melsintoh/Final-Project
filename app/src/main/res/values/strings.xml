@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TakingIntiative</string>
+    <string name="character_name">NPCNAME</string>
+    <string name="NPC_NAME">NAME</string>
+    <string name="DONE">DONE</string>
+    <string name="complete">Complete</string>
+    <string name="initiative">Initiative</string>
+    <string name="add">ADD Character</string>
+    <string name="reset">Top of the Round</string>
+    <string name="list">list</string>
+
+</resources>
